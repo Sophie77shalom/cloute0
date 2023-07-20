@@ -1,1 +1,2 @@
 # cloute0
+Clout0  is an application that allows users to create profiles and share their expertise, skills, and available time. It provides a platform for people to buyout the time and services offered by these individuals, enabling a seamless exchange of knowledge and experiences
